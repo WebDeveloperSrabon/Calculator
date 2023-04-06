@@ -1,0 +1,20 @@
+
+.button{
+    padding: 20px;
+    margin: 5px 0px;
+    border: 2px solid black;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: all 0.2s ease-in;
+}
+.button:hover{
+    background-color: tomato;
+}
+.row{
+    margin: 12px 0px;
+}
+.input{
+    padding: 20px 0px;
+    border-radius: 9px;
+    font-size: 20px;
+}
